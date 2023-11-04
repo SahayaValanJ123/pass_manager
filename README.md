@@ -38,6 +38,7 @@ $ pass_manager --action retrieve --service [SERVICE] --master_password [YOUR_MAS
 
 $ pass_manager --action generate_password --password_length 16
 
-````
-# pass_manager
-# pass_manager
+
+
+
+###### I can't resolve error while retrieving passwords
