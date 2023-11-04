@@ -1,3 +1,10 @@
+Metadata-Version: 2.1
+Name: PasswordManager
+Version: 0.0.1
+Author: Sahaya Valan J
+Author-email: sahayavalanj1@gmail.com
+Description-Content-Type: markdown
+
 # Password_Manager
 
 Password Manager is a command-line tool that allows you to securely store and retrieve passwords for various services.
@@ -39,5 +46,3 @@ $ pass_manager --action retrieve --service [SERVICE] --master_password [YOUR_MAS
 $ pass_manager --action generate_password --password_length 16
 
 ````
-# pass_manager
-# pass_manager

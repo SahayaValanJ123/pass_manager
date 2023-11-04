@@ -1,0 +1,11 @@
+
+pass_manager --action store  --master-password [MASTER_PASSWORD] --service [SERVICE] --password [PASSWORD] 
+
+
+pass_manager --action retrieve --master-password [MASTER_PASSWORD] --service [SERVICE] 
+
+
+
+pass_manager --action generate_password --password_length 16
+
+**I can't resolve error while retrieving passwords

@@ -1,0 +1,9 @@
+README.md
+setup.py
+PasswordManager.egg-info/PKG-INFO
+PasswordManager.egg-info/SOURCES.txt
+PasswordManager.egg-info/dependency_links.txt
+PasswordManager.egg-info/entry_points.txt
+PasswordManager.egg-info/top_level.txt
+passmanager_jsv/__init__.py
+passmanager_jsv/passwd_manager.py
